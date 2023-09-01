@@ -1,4 +1,4 @@
-![MasterHead](https://i.gifer.com/1QXw.gif)
+![logo](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Tharusha Rashmika Sandakelum</h1>
 <h3 align="center">A passionate frontend and backend developer from Srilanka</h3>
 
@@ -6,14 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/tharusharashm18" target="blank"><img src="https://img.shields.io/twitter/follow/tharusharashm18?logo=twitter&style=for-the-badge" alt="tharusharashm18" /></a> </p>
 
-- 🌱 I’m currently learning **(SLIIT)Sri Lanka Institute of Information Technology**
+- I’m currently learning **(SLIIT)Sri Lanka Institute of Information Technology**
 
-- 💬 Ask me about **Web development,**
+- Ask me about **Web development,**
 
-- 📫 How to reach me **rashmikatharusha8@gmail.com**
+- How to reach me **rashmikatharusha8@gmail.com**
 
 - ⚡ Fun fact **Something that motivates me is technology...**
 
+<br><img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400"><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tharusharashm18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tharusharashm18" height="30" width="40" /></a>
