@@ -23,9 +23,6 @@
 <a href="https://instagram.com/https://instagram.com/tharusha_rashmika_sandakelum?igshid=ogq5zdc2odk2za==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/tharusha_rashmika_sandakelum?igshid=ogq5zdc2odk2za==" height="30" width="40" /></a>
 </p>
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/about_me.gif"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -143,11 +140,8 @@
 
 <img src="https://raw.githubusercontent.com/Tharusha200219/Tharusha200219/output/snake.svg" alt="Snake animation" />
 
-###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Tharusha200219/count.svg?"  />
-</div>
+
 
 ###
 
@@ -155,5 +149,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Tharusha200219&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tharusha200219&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharusha200219&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Tharusha200219/count.svg?"  />
+</div>
 
