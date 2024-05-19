@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tharusha Rashmika Sandakelum</h1>
 <h3 align="center">A passionate frontend and backend developer from Srilanka</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharusha200219&label=Profile%20views&color=0e75b6&style=flat" alt="tharusha200219" /> </p>
 
 <p align="left"> <a href="https://twitter.com/tharusharashm18" target="blank"><img src="https://img.shields.io/twitter/follow/tharusharashm18?logo=twitter&style=for-the-badge" alt="tharusharashm18" /></a> </p>
@@ -139,6 +140,10 @@
 ###
 
 <img src="https://raw.githubusercontent.com/Tharusha200219/Tharusha200219/output/snake.svg" alt="Snake animation" />
+
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tharusha200219" alt="tharusha200219" /></a> </p>
 
 
 
